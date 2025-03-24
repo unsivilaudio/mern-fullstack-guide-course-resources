@@ -1,0 +1,6 @@
+node_modules/
+pnpm-lock.yaml
+nodemon.json
+*.env*
+uploads/images/
+!uploads/images/__YOUR_IMAGES_GO_HERE__
